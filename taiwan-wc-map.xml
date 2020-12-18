@@ -3,10 +3,10 @@
     <channel>
         <title>Taiwan WC Map - Appcast</title>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.3</title>
             <description>desc</description>
             <pubDate>Thu, 17 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=dev.webuilder.taiwan_wc_map" sparkle:version="1.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=dev.webuilder.taiwan_wc_map" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
